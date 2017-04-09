@@ -18,6 +18,8 @@ make a copy of it in your workspace and source it:
 
 which produces the output result.csv.
 
+Please use the comprehensive inline comments in the script file to understand every steps in analysis.
+
 ## The Output
 
 The output comprises independent tidy data set with the average of 
