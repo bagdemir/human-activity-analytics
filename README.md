@@ -23,7 +23,7 @@ which produces the output result.csv.
 The output comprises independent tidy data set with the average of 
 each variable for each activity and each subject.
 
-A code book can be found on the Git repository: [Download -PDF](https://github.com/bagdemir/human-activity-analytics/blob/master/code-book.pdf)
+A code book can be found on the Git repository: [Download -PDF](https://github.com/bagdemir/human-activity-analytics/blob/master/code-book.pdf) which explains the features in results.
 
 The data is an example of the tidy data in regards with:
 * Each variable forms a column.
